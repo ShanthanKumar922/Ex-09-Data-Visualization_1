@@ -237,118 +237,117 @@ plt.show()
 
 ### Cleaned Dataset:
 
-![output](./t.png)
+<img width="541" alt="t" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/2d9e2b01-2572-4e5b-b205-d8eb88e08145">
 
-![output](./t1.png)
+<img width="118" alt="t1" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/b06c38ee-587a-4e6c-baf2-8ba1425b350c">
 
 ### Removing Outliers:
 
-![output](./t2.png)
+<img width="449" alt="t2" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/79c9b75d-7e47-41c1-95d0-e63e349d56f4">
 
-![output](./t3.png)
+<img width="451" alt="t3" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/203ca065-1031-427f-bda6-b34455a912f8">
 
 ### Line PLot:
 
-![output](./t4.png)
+<img width="224" alt="t4" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/a3e3b47b-4cb7-4af6-88b2-3aabba564f9f">
 
-![output](./t5.png)
+<img width="224" alt="t5" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/3aa0f534-3277-4b3e-a879-282f75f83a50">
 
-![output](./t6.png)
+<img width="224" alt="t6" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/a14f191e-2782-46f7-a4bc-8e75a997f351">
 
-![output](./t7.png)
+<img width="223" alt="t7" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/16b455ad-474f-431c-ae2f-434f7dbbd24c">
 
-![output](./t8.png)
+<img width="224" alt="t8" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/5c1ca27f-1f50-4279-a76f-b84d657e8e63">
 
-![output](./t9.png)
+<img width="538" alt="t9" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/d2292b2a-3751-4862-9d5d-8855ffc537e2">
 
 ### Bar Plots:
 
-![output](./t10.png)
+<img width="224" alt="t10" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/ea9e2528-5755-47b0-95f8-37621ebd5c58">
 
-![output](./t11.png)
+<img width="224" alt="t11" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/77c1e7e1-273f-428e-9e21-a4dbf665890e">
 
-![output](./t12.png)
+<img width="226" alt="t12" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/5a67f622-a8ff-42f1-96a3-3ec11bc4f618">
 
-![output](./t13.png)
+<img width="452" alt="t13" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/efe1f2a7-c2fb-4a1e-8e20-1d339f924c4a">
 
-![output](./t14.png)
+<img width="536" alt="t14" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/8228833e-6d4b-4c64-abfe-e95577a73896">
 
 ### Histograms:
 
-![output](./t15.png)
+<img width="223" alt="t15" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/50d67ed5-79f4-4829-af1b-6a941089520b">
 
-![output](./t27.png)
+<img width="227" alt="t27" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/de6609d3-48d8-4251-acf1-8fc2f0a5942f">
 
-![output](./t28.png)
+<img width="224" alt="t28" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/e8a1c666-2ecb-41e4-a6b9-4a3f5dfa102e">
 
-![output](./t29.png)
+<img width="223" alt="t29" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/a31e3a50-1b61-44c3-b3af-d77ee60e7a88">
 
-![output](./t30.png)
-
+<img width="224" alt="t30" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/923ef5f1-2bfd-40ca-87ed-16e21b23509f">
 
 ### Count plots:
 
-![output](./t16.png)
+<img width="224" alt="t16" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/f108a2ac-3117-465b-a753-d99c1f9350eb">
 
-![output](./t17.png)
+<img width="223" alt="t17" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/31a9c157-d0ed-47d7-9a4f-8145544254c1">
 
-![output](./t31.png)
+<img width="375" alt="t31" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/4a81ff65-de4b-459e-9e33-0c2b70db9b0d">
 
-![output](./t32.png)
+<img width="229" alt="t32" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/e7ca88d9-7995-4e02-9e0f-1793c697fc7e">
 
-![output](./t33.png)
+<img width="221" alt="t33" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/8127680a-760d-44e3-a33d-4acbdf79e5de">
 
 
 ### Bar Charts:
 
-![output](./t18.png)
+<img width="376" alt="t18" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/1746847c-9bed-4e6d-80fb-acc370250bad">
 
-![output](./t19.png)
+<img width="223" alt="t19" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/d8599d46-df0b-4550-a924-a158c54ea99a">
 
-![output](./t20.png)
+<img width="374" alt="t20" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/0d60a021-d287-4cf3-acbc-3be246fd1605">
 
-![output](./t21.png)
+<img width="527" alt="t21" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/9c8433e8-d853-498f-b220-c6c20ebf7286">
 
-![output](./t34.png)
+<img width="227" alt="t34" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/85af9d2a-3435-4eb4-a015-3e70e4def231">
 
-![output](./t35.png)
+<img width="224" alt="t35" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/584243d1-50a9-42e0-9f08-d2691c5d9021">
 
-![output](./t36.png)
+<img width="226" alt="t36" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/165955ca-108a-428b-9c0b-99434d969a7e">
 
 ### KDE Plots:
 
-![output](./t22.png)
+<img width="225" alt="t22" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/32970153-e7f7-45cd-9abd-0ad366a82a9a">
 
-![output](./t23.png)
+<img width="227" alt="t23" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/4feb747b-0c3c-40d8-918d-14b225f7c908">
 
 ### Violin Plot:
 
-![output](./t24.png)
+<img width="221" alt="t24" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/f8e722ab-4360-41d6-8333-2e35316ef096">
 
 ### Point Plots:
 
-![output](./t25.png)
+<img width="227" alt="t25" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/9dee2516-7f28-499b-9efe-09e37782d42c">
 
-![output](./t26.png)
+<img width="227" alt="t26" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/f7b93efe-2bb6-48d6-8a27-7e2c0babc8bc">
 
 ### Pie Charts:
 
-![output](./t37.png)
+<img width="335" alt="t37" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/a39ed945-2150-476d-a9f0-7b4fa52dfffb">
 
-![output](./t38.png)
+<img width="367" alt="t38" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/35b4f145-42ea-412c-b419-ad8073c32d30">
 
-![output](./t39.png)
+<img width="223" alt="t39" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/e9f9c5f6-7ef8-40a5-b17a-4ca9ebe29852">
 
-![output](./t40.png)
+<img width="378" alt="t40" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/6ba2b726-60a2-4c73-8426-0eec890ae118">
 
-![output](./t41.png)
+<img width="308" alt="t41" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/e237001f-98b7-4bc4-90ab-18e75509710c">
 
-![output](./t42.png)
+<img width="197" alt="t42" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/90433c03-ab52-44c2-8be2-0c87dd5a5de6">
 
 
 ### HeatMap:
 
-![output](./t43.png)
+<img width="368" alt="t43" src="https://github.com/ShanthanKumar922/Ex-09-Data-Visualization_1/assets/127843136/7281ff58-e4ea-4ce3-a54d-b950ca9e1f6e">
 
 
 ### Result:
